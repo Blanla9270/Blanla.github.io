@@ -1,1 +1,1 @@
-# Blanla.in
+# Blanla.github.io
